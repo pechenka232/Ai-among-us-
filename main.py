@@ -42,7 +42,7 @@ AGENT_COLORS = {
     "Фиолетовый": (160, 32, 240)  # impostor
 }
 
-# ------------------ Skins (sprites) ------------------
+
 SKIN_NAME_MAP = {
     "Оранжевый": "orange",
     "Черный": "black",
